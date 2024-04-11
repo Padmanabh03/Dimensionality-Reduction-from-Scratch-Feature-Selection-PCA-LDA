@@ -14,8 +14,8 @@ The project uses the Iris dataset, renowned in pattern recognition literature. I
 ## Requirements ##
 To run this project, you'll need Python 3.x and the following libraries:
 
-NumPy
-Matplotlib
-Scikit-learn
+#### NumPy
+#### Matplotlib
+#### Scikit-learn
 
 For additional insights into dimensionality reduction and its practical applications and also what the output implies, especially in dealing with high-dimensional datasets, consider reading my blog post https://medium.com/@padmanabhbutala03/the-curse-of-dimensionality-navigating-through-high-dimensional-spaces-b7044b6c07b5. 
