@@ -6,7 +6,7 @@ This project is an in-depth exploration of dimensionality reduction techniques a
 ## Techniques Implemented ##
 #### Forward Selection: #### A sequential feature selection method that begins with an empty model and adds features iteratively, choosing those that most improve the model at each step.
 #### Principal Component Analysis (PCA): #### A statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.
-### Linear Discriminant Analysis (LDA): #### A method that seeks to find a linear combination of features that best separate two or more classes, aiming to maximize the ratio of between-class variance to within-class variance.
+#### Linear Discriminant Analysis (LDA): #### A method that seeks to find a linear combination of features that best separate two or more classes, aiming to maximize the ratio of between-class variance to within-class variance.
 
 ## Dataset ##
 The project uses the Iris dataset, renowned in pattern recognition literature. It comprises three classes of 50 samples each, with each class referring to a type of iris plant and several measurements for each sample.
